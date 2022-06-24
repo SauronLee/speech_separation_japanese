@@ -1,6 +1,6 @@
 # speech_separation_japanese
  
-
+```
 📦sep_data
  ┣ 📂t9                         #T9 data
  ┃ ┣ 📂2_speakers               #Speech separation based on two speakers
@@ -64,4 +64,4 @@
  ┃ ┃ ┃ ┣ 📜s_370_1.wav
  ┃ ┃ ┃ ┣ 📜s_370_2.wav
  ┃ ┗ ┗ ┗ 📜s_370_3.wav
-
+```
